@@ -28,6 +28,10 @@ It's my config of vim.
 sudo apt-get install ctags
 sudo apt-get install build-essential cmake python-dev
 
+#centos
+sudo yum install ctags
+sudo yum groupinstall "Development Tools"
+sudo yum cmake python-dev
 ```
 
 3. 一键安装
