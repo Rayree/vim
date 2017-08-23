@@ -31,7 +31,7 @@ sudo apt-get install build-essential cmake python-dev
 #centos
 sudo yum install ctags
 sudo yum groupinstall "Development Tools"
-sudo yum intall cmake python-devel
+sudo yum install cmake python-devel
 ```
 
 3. 一键安装
