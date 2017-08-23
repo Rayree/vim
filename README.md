@@ -38,6 +38,9 @@ sudo yum install cmake python-devel
 
 >  `sh -x install.sh`
 
+4. 更新插件
+
+>  `vim +BundleInstall +qall`
 
 ### 手动安装(如果一键安装失败，需要手动安装)
 
